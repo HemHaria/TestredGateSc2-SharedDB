@@ -1,2 +1,0 @@
-TestredGateSc2-SharedDB
-=======================
